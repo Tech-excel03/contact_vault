@@ -1,0 +1,89 @@
+.logo{
+   width: 50px;
+}
+.header-row{
+    vertical-align: middle;
+}
+
+/**** Login.css **/
+
+.Login-form{
+  justify-content: flex-end;
+  align-items: center;
+  justify-content: center; 
+  margin-bottom: 15px;
+}
+.Login-form h1{
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+.input-control1{
+    text-align: center;
+    margin-bottom: 5px;    
+}
+.input-control2{
+    text-align: center; 
+}
+
+/*** Home.css**/
+.container{
+    display: flex;
+}
+
+/** new user.css **/
+.new-user{   
+    padding: 10px;
+    margin: 20px;
+    }
+    .user-logo{
+        display: flex;
+        padding-right: 20px;    
+    }
+    .user-logo img{
+        width: 150px;
+    }
+    .label_col{
+        text-align: left;
+        width: 30%;
+    }
+    .input_col{
+        text-align: left;
+    }
+    .input_field{
+        text-align: left;
+        font-weight: bold;
+    }
+    .header_row{
+        text-align: left;
+        padding: 5px 5px 5px 5px;
+
+    }
+    .footer_row{
+        text-align: center;
+        padding: 15px 15px 15px 15px;
+    }
+    .ref_links{
+        color: blue;
+        
+    }
+    .section_heading{
+        font-weight: bold;
+       font-size: large;
+       padding: 5px 5px 5px 5px;
+    }
+    .sub_heading{
+        font-weight: bold;
+       font-size: medium;
+    }
+    .button_row{
+        text-align: center;
+        font-weight: bold;
+
+    }
+
+
+  
+
+    
+    
